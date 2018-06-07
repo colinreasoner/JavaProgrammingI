@@ -1,0 +1,6 @@
+# requires git 2.10 or newer
+# see https://stackoverflow.com/a/40977008/1229371
+# and https://stackoverflow.com/a/29508751/1229371
+## From scrunch .gitattributes
+* text=auto eol=lf
+.gitignore -text
